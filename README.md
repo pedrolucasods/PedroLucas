@@ -20,7 +20,7 @@
   <!-- Ícones principais (automáticos para tema claro/escuro) -->
   <img src="https://skillicons.dev/icons?i=js,python,html,css,express,django,sqlite,mysql&theme=dark" />
   
-  <img src="assets/handlebars.png" width="50" height="50" alt="Handlebars" />
+  <img src="assets/handleb3.png" width="48" height="48" alt="Handlebars"/>
 
 </p>
 
