@@ -20,8 +20,8 @@
   <!-- Ícones principais (automáticos para tema claro/escuro) -->
   <img src="https://skillicons.dev/icons?i=js,python,html,css,express,django,sqlite,mysql&theme=dark" />
   
-  <!-- Ícone do Handlebars (visível em qualquer tema) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg" width="48" height="48" alt="Handlebars" style="margin-left:8px;" />
+  ![Handlebars](assets/handlebars.png)
+
 </p>
 
 ---
