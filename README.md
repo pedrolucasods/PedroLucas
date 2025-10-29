@@ -22,6 +22,8 @@
   
   <img src="assets/handleb3.png" width="48" height="48" alt="Handlebars"/>
 
+   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="48" height="48"/>
+
 </p>
 
 ---
